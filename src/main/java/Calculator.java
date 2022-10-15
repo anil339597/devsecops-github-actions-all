@@ -1,7 +1,6 @@
 /*
 #Added a Java File for Demonstration of Code Coverage Percentage update on SonarCloud Dashboard
-#By ASecurityGuru
-#5/11/2022 11:14 AM IST
+#By Anil test program
 */
 public class Calculator {
 
