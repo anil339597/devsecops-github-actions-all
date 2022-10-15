@@ -1,7 +1,6 @@
 /*
 #Added a Java Test File for Demonstration of Code Coverage Percentage update on SonarCloud Dashboard
-#By ASecurityGuru
-#5/11/2022 11:14 AM IST
+# Anil modified
 */
 
 import static org.junit.Assert.assertEquals;
